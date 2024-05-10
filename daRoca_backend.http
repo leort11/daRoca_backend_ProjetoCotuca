@@ -1,0 +1,6 @@
+@daRoca_backend_HostAddress = http://localhost:5051
+
+GET {{daRoca_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
